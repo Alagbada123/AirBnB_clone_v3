@@ -8,7 +8,7 @@ from fabric.operations import run, put, sudo, local
 from datetime import datetime
 import os
 
-env.hosts = ['66.70.184.249', '54.210.138.75']
+env.hosts = ['3.90.65.231', '100.26.212.56']
 created_path = None
 
 
